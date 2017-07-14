@@ -1,0 +1,11 @@
+before 6.4
+	pure: 5159
+	aug: 11045
+	train: 10500 , 500
+
+6.4 aug 63 pos with 6-4.txt, front
+	aug: 12131
+	train: 12020 , 120
+
+6.6 aug 12
+	12162
